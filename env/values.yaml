@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 35.197.0.235.nip.io
+    domain: rawlings-demo.co.uk
     exposer: Ingress
     http: "true"
     tlsacme: "false"
